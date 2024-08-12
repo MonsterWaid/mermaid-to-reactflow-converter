@@ -10,15 +10,13 @@ This simple application converts mermaid flow diagrams to reactflow diagrams.
 ## 🚀 Quick Start
 
 1. Install dependencies:
+
 ```bash
-pnpm i
-
-# or
-
-npm i
+pnpm i or npm i
 ```
 
 2. Start the development server:
+
 ```bash
 pnpm dev
 
