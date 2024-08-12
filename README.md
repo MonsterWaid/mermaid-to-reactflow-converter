@@ -45,3 +45,4 @@ npm run dev
 - [ReactFlow](https://reactflow.dev/): A library for building node-based graphs.
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/): A browser-based code editor.
   - [Monaco Editor Theme Loading](https://github.com/relliv/monaco-editor-textmate-theme-loading-example): An example of loading textmate themes for the Monaco Editor.
+- [mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw): an inspiring example from excalidraw team.
